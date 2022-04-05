@@ -6,3 +6,14 @@ program for managment your system
 <img alt="Ansible Quality Score badge" src="https://img.shields.io/badge/quality-5.158-brightgreen">
 <br>
 good program for managment your system
+<br>
+<br>
+<br>
+<h2>Systems</h2>
+<li>Windows 10</li>
+<li>Linux Debian</li>
+<br>
+<br>
+<h2>Install</h2>
+<p>you can install this program same as other programs in windows</p>
+<p>you can install this program same as other programs in linux</p>
